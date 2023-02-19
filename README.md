@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>[Hosting WordPress Site on AWS](https://operezsandoval-portfolioproject--home-2hyqzp.streamlit.app/~/+/#hosting-wordpress-site-on-aws)</b>
-- <b>Deploying Dynamic Website with Terraform on AWS</b>
-- <b>Hosting Static Website on AWS with S3</b>
-- <b>Serverless Lambda Calculator</b>
-- <b>Lambda Python Project</b>
+- <b>[Deploying Dynamic Website with Terraform on AWS](https://operezsandoval-portfolioproject--home-2hyqzp.streamlit.app/~/+/#hosting-a-static-website-with-s3)</b>
+- <b>[Hosting Static Website on AWS with S3](https://operezsandoval-portfolioproject--home-2hyqzp.streamlit.app/~/+/#hosting-a-static-website-with-s3)</b>
+- <b>[Serverless Lambda Calculator](https://operezsandoval-portfolioproject--home-2hyqzp.streamlit.app/~/+/#hosting-a-static-website-with-s3)</b>
+- <b>[Lambda Python Project](https://operezsandoval-portfolioproject--home-2hyqzp.streamlit.app/~/+/#hosting-a-static-website-with-s3)</b>
 
 <h2>📄 Certifications:</h2>
 
