@@ -12,7 +12,8 @@
 
 - [AWS Certified Solutions Architect](https://docsforportfolio.s3.amazonaws.com/AWS+Certified+Solutions+Architect+-+Associate+certificate.pdf)
 - [AWS Certified Cloud Practitioner](https://docsforportfolio.s3.amazonaws.com/AWS+Certified+Cloud+Practitioner+certificate.pdfs)
-
+- [CompTIA Project+](https://docsforportfolio.s3.amazonaws.com/CompTIA_+Project%2B.pdf)
+- [ITIL v4](https://docsforportfolio.s3.amazonaws.com/ITIL_v4.pdf)
 
 <h2>🤳 Connect with me:</h2>
 
