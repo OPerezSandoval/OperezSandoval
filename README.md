@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://omarperezportfolio.com"><img src="https://img.shields.io/badge/Portfolio-omarperezportfolio.com-1f6feb?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.omarperezportfolio.com/"><img src="https://img.shields.io/badge/Portfolio-omarperezportfolio.com-1f6feb?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/omar-perez1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:perez.omar99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -64,20 +64,12 @@ Application Development) certification.
 
 ## 📜 Certifications
 
-- **AWS Certified Solutions Architect – Associate**
-- **AWS Certified Cloud Practitioner**
-- **CompTIA Project+**
-- **ITIL v4 Foundation**
-- 🔄 *In progress:* Red Hat Certified Specialist in OpenShift App Dev (EX288)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OPerezSandoval&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="Omar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPerezSandoval&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
-</p>
+- **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/11b7aaf1-1e0d-4f0c-ba12-bb2f10c6833d/public_url)** — Linux Foundation
+- **[Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/7046f595-d963-4e4e-b92c-37e684908e43/public_url)** — Linux Foundation
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/9a84c091-ed1f-4424-873f-e78740a5076b/public_url)** — Amazon Web Services
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/bf11bab6-d4e5-430a-ac77-42363d8c6ec0/public_url)** — Amazon Web Services
+- **[CompTIA Project+](https://www.credly.com/badges/e044b251-2460-4201-a542-95be479743d4/public_url)** — CompTIA
+- **[ITIL v4 Foundation](https://docsforportfolio.s3.us-east-1.amazonaws.com/ITIL_v4.pdf)** — PeopleCert
 
 ---
 
